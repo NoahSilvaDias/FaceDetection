@@ -25,11 +25,11 @@ markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 matplotlib==3.9.0
 mdurl==0.1.2
-mediapipe==0.10.14
+mediapipe
 ml-dtypes==0.4.0
 numpy==1.26.4
 opencv-contrib-python==4.9.0.80
-opencv-python==4.9.0.80
+opencv-python
 opt-einsum==3.3.0
 packaging==24.0
 pandas==2.2.2
@@ -50,7 +50,7 @@ scipy==1.13.1
 six==1.16.0
 smmap==5.0.1
 sounddevice==0.4.7
-streamlit==1.35.0
+streamlit
 tenacity==8.3.0
 toml==0.10.2
 toolz==0.12.1
